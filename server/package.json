@@ -1,0 +1,19 @@
+{
+  "name": "lofi-messenger-server",
+  "version": "1.0.0",
+  "description": "The server-side/back-end for the lofi messenger project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galantelorenzo97/lofi-messenger.git"
+  },
+  "author": "Engr. Lorenzo Galante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galantelorenzo97/lofi-messenger/issues"
+  },
+  "homepage": "https://github.com/galantelorenzo97/lofi-messenger#readme"
+}
